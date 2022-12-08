@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*4Jv9vUkvznOtOVYRebqUUg.jpeg" />
 </p>
+
 > Swirge is a diversified community of over 50,000 users. And this involves crypto enthusiasts, digital creatives, entrepreneurs, and even newbies to the crypto space, among others, who have robust digital identities based on the unique ways they interact through their digital space. Your digital identity holds an enormous value that can enrich you. And this is why thousands of brands and businesses would pay heavily to access your personal data. 
 
 > Before now, social media platforms built on centralized systems have made it difficult for internet users to reap the accruable benefit from their digital identities. These host platforms make merchandise off users’ data, enriching their pockets while offering little or no reward to the actual owners of these data.

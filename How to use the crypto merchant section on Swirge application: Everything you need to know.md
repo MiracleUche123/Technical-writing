@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*C12Ik1dnkhFLgGdhFbgVCw@2x.webp" />
 </p>
+
 > ## Introduction
 
 > *Traditional payment networks are built off system models in which users, or merchants, depend on a third party to secure and sustain the operations of the network. Over time, this system is flawed owing to several arising issues of fraud and financial losses. However, the rise of blockchain technology has paved the way for several innovative technologies, one of which is a decentralized payment network — which allows merchants to execute transactions without depending on third parties to secure the network.*

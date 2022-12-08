@@ -1,7 +1,7 @@
 # [How to use the tipping feature](https://swirgenetwork.medium.com/tipping-feature-e9224ac8575e)
 ## Introduction
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*4Jv9vUkvznOtOVYRebqUUg.jpeg" />
+  <img src="https://miro.medium.com/max/1400/1*4Jv9vUkvznOtOVYRebqUUg.jpeg" alt="drawing" width="200"/>
 </p>
 
 > Swirge is a diversified community of over 50,000 users. And this involves crypto enthusiasts, digital creatives, entrepreneurs, and even newbies to the crypto space, among others, who have robust digital identities based on the unique ways they interact through their digital space. Your digital identity holds an enormous value that can enrich you. And this is why thousands of brands and businesses would pay heavily to access your personal data. 

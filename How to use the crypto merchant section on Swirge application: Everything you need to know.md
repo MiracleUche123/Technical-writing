@@ -1,12 +1,13 @@
 # [How to use the crypto merchant section on Swirge application: Everything you need to know](https://swirgenetwork.medium.com/a-crypto-merchant-section-on-the-swirge-application-what-you-need-to-know-5e4065c5405f)
-![alt text](https://miro.medium.com/max/1400/1*C12Ik1dnkhFLgGdhFbgVCw@2x.webp)
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*C12Ik1dnkhFLgGdhFbgVCw@2x.webp" />
+</p>
 
 > *Traditional payment networks are built off system models in which users, or merchants, depend on a third party to secure and sustain the operations of the network. Over time, this system is flawed owing to several arising issues of fraud and financial losses. However, the rise of blockchain technology has paved the way for several innovative technologies, one of which is a decentralized payment network — which allows merchants to execute transactions without depending on third parties to secure the network.*
 
 <p align="center">
   <img src="https://miro.medium.com/max/640/1*5llWFzHJi-WbTSVA5_uFrA@2x.webp" />
 </p>
-![alt text](https://miro.medium.com/max/640/1*5llWFzHJi-WbTSVA5_uFrA@2x.webp)
 
 > **Being built on the blockchain, Swirge network has taken a giant step to enable support for a decentralized and secure payment system that will facilitate the ease of transacting business deals for/with users on the platform, eliminating every form of third party involvement— thus securing your data, giving you privacy and absolute control of your finances and transactions.**
 

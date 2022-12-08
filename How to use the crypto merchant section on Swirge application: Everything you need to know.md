@@ -1,6 +1,6 @@
 # [How to use the crypto merchant section on Swirge application: Everything you need to know](https://swirgenetwork.medium.com/a-crypto-merchant-section-on-the-swirge-application-what-you-need-to-know-5e4065c5405f)
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*C12Ik1dnkhFLgGdhFbgVCw@2x.webp" />
+  <img src="https://miro.medium.com/max/1400/1*C12Ik1dnkhFLgGdhFbgVCw@2x.webp" alt="drawing" width="400" />
 </p>
 
 > ## Introduction

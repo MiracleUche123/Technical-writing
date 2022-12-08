@@ -20,8 +20,8 @@ The merchant payment operates similarly to a Point of Sale (POS) system. And tra
 
 > Here is a step-by-step guide on how to use the Swirge merchant feature:
 > - First, log in to the Swirge platform using your details.
-- Then, click on the profile icon to display the profile interface.
-- Next, click on the merchant icon to access the user interface containing the New invoice, Scan QR code, and View History options. 
+> - Then, click on the profile icon to display the profile interface.
+> - Next, click on the merchant icon to access the user interface containing the New invoice, Scan QR code, and View History options. 
 
 >   The New Invoice option allows you to input the buyer’s username and choose a payment method. When inputting the buyer’s username, the app automatically queries the database to find the buyer on Swirge network.
 >  And, by selecting the payment method, you can choose the means of issuing payment for the transaction, which includes a host of options such as Ethereum Token, Cardano Token, Trust wallet, among others.
